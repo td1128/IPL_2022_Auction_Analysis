@@ -19,8 +19,3 @@ The Goal of this IPl_Auction_2022_EDA Project - Cleaning, Analysing, and explori
 - Highest paid retained.     
 - Amount spent by each team in the auction.    
 - List of players who played IPL 2021 but went unsold in IPL 2022.
-
-## Contributors
-Vilasagaram Sai Shivani     
-Ale Sai Kiran   
-Developed as part of the Exploratory Data Analysis.
